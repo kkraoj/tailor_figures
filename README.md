@@ -1,6 +1,9 @@
 # Using style sheets to tailor figures to different mediums
 Tailor your figures for papers/posters/presentations using matplotlib style sheets. 
 
+![figure showing ratio of viewing distance to screen size desends differs based on paper or presentation](viewing_ratio.png)
+_Ratio of distance to screen size differs between presentations and papers/web articles. Artwork from svgrepo.com and clipartmax.com_
+
 ## To use:
 1. Find out matplotlib's configuration directory by typing `matplotlib.get_configdir()`.
 1. Go to that directory and create a directory within it called "stylelib"
