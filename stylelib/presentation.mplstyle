@@ -1,0 +1,9 @@
+lines.linewidth : 2.25
+lines.markersize : 6   
+figure.figsize: 3.54,3.54
+font.size: 16.0
+axes.titlepad: 8.0
+axes.linewidth : 1.1
+legend.frameon: False
+xtick.major.width : 1.1
+ytick.major.width : 1.1
